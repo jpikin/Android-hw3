@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">3hw</string>
+    <string name="nirvana">Nirvana</string>
+    <string name="smells">Smells like teen spirit</string>
+    <string name="playButton">playButton</string>
+    <string name="albumImage">AlbumImage</string>
+    <string name="nextButton">NextButton</string>
+    <string name="previousButton">previousButton</string>
 </resources>
